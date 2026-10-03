@@ -1,0 +1,7 @@
+Copyright (C) 2026 Vedansh Saha and Nipun Saha.
+
+The manuscript, figures, tables, and other non-software research text in this
+package are licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0).
+
+The verification software remains under the MIT License in LICENSE.

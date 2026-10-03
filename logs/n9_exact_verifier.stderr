@@ -1,0 +1,7 @@
+hist4: 4:2232 5:752 6:1068 7:3040 8:418 9:896 10:1080 12:372 16:768
+hist5: 5:2832 6:1456 7:4560 8:5764 9:4192 10:5040 11:240 12:2136 16:3276 17:6144 24:6864
+distinct_Q3_copies=7560
+distinct_outside_edge_masks=7122
+four_edge_seeds=10626 percolating=0 max_closure=16
+five_edge_seeds=42504 percolating=6864 max_closure=24
+TIME 1.39 RSS 2944

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use the manuscript, certificates, or verification software, please cite this work."
+title: "Weak Saturation of the 3-Cube in Complete Graphs: Exact Values at Orders 9, 10, 11"
+type: software
+version: "1.0.0"
+date-released: 2026-10-03
+abstract: "Computer-assisted determination of the weak saturation number of the three-dimensional cube in complete graphs at orders 9, 10, and 11, with exact values 16, 18, and 19 and a general upper bound of 2n-3 for n>=11."
+authors:
+  - family-names: Saha
+    given-names: Vedansh
+  - family-names: Saha
+    given-names: Nipun
+repository-code: "https://github.com/Vedansh-Saha/weak-saturation-q3"
+license: MIT
+keywords:
+  - weak saturation
+  - Q3
+  - graph bootstrap percolation
+  - extremal graph theory
+  - computer-assisted proof
